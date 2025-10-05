@@ -1,6 +1,6 @@
-# Preprocessing dan Segmentasi Citra Digital
+# Perbaikan Citra dan Segmentasi Citra Digital
 
-Repositori ini berisi implementasi kode Python untuk proses preprocessing citra dan segmentasi citra menggunakan beberapa metode filter dan operator deteksi tepi, berdasarkan Tugas 3 Analisis Data Citra Biomedik.
+Repositori ini berisi implementasi kode Python untuk proses perbaikan citra dan segmentasi citra menggunakan beberapa metode filter dan operator deteksi tepi, berdasarkan Tugas 3 Analisis Data Citra Biomedik.
 
 ## Deskripsi
 Tujuan dari project ini adalah memahami dan membandingkan beberapa metode preprocessing citra untuk mengurangi noise dan meningkatkan kualitas data sebelum proses segmentasi dilakukan.
