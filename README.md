@@ -1,0 +1,1 @@
+# Preprocessing-Segmentasi-Citra_Kel5
