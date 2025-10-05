@@ -14,4 +14,4 @@ Selanjutnya, tahap segmentasi dilakukan menggunakan operator deteksi tepi **Prew
 - Deteksi tepi menggunakan:
   - **Prewitt Operator**
   - **Sobel Operator**
-  - **Roberts Operator**
+  - **Robert Operator**
